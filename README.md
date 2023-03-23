@@ -2,7 +2,9 @@
 
 
 demo: https://ignite-call-weld.vercel.app/
-1 - usar sqlite
+
+
+# 1 - usar sqlite
 
 npm run dev
 
