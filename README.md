@@ -32,8 +32,8 @@ ler schema e rodar migrate
 - npx prisma migrate dev
 
 subir banco no local com mysql
-# .env -> DATABASE_URL="mysql://root:<senha>@localhost:3306/ignitecall"
-docker run --name mysql -e MYSQL_ROOT_PASSWORD=<senha> -p 3306:3306 mysql:latest
+.env -> DATABASE_URL="mysql://root:@senha@localhost:3306/ignitecall"
+docker run --name mysql -e MYSQL_ROOT_PASSWORD=@senha -p 3306:3306 mysql:latest
 
 
 ver banco - http://localhost:5555/
