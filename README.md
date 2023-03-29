@@ -29,7 +29,10 @@ obs: INICIAR O PRISMA NA MAQUINA
 
 obs: apaga as migrations que existe e roda novamente esse comando para rodar migrations e ver as mudanças no banco
 ler schema e rodar migrate
-- npx prisma migrate dev
+-  npx prisma migrate dev --name init
+-  
+-  ou tente isso se nao der certo
+-   npx prisma migrate dev 
 
 subir banco no local com mysql
 .env -> DATABASE_URL="mysql://root:@senha@localhost:3306/ignitecall"
