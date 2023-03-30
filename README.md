@@ -32,6 +32,7 @@ ler schema e rodar migrate
 -  npx prisma migrate dev --name init
 -  
 -  ou tente isso se nao der certo
+-  prisma migrate dev --create-only
 -   npx prisma migrate dev 
 
 subir banco no local com mysql
