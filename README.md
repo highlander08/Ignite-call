@@ -3,7 +3,8 @@
 
 demo: https://ignite-call-weld.vercel.app/
 
-# 0 - npm i @prisma/client e npm i prisma
+instalar dependencias -> npm i @prisma/client e npm i prisma
+
 # 1 - usar sqlite
 
 npm run dev
