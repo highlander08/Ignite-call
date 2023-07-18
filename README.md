@@ -1,3 +1,47 @@
+💻 About
+Application that connects your calendar and allows people to book appointments in their free time. The Design System was used creating in the previous project.
+
+ Authenticated routes in Next.js.
+ Authentication with Next Auth.
+ Validation with zod.
+ Integration with Google Calendar
+ Integration with Design System
+Although there are few features, concepts such as:
+
+States
+State immutability
+Lists and keys in ReactJS
+Properties
+Componentization
+
+🛠 Tech Stack
+This project was developed with the following technologies:
+
+React
+Next
+Next-Auth
+Next-seo
+Nookies
+React-hook-form
+Zod
+TypeScript
+Stitches
+Phosphor-react
+Radix-u
+Axios
+Prisma
+@ignite-ui-exo/react
+React-query
+Dayjs
+Googleapis
+
+🔖 Layout
+You can view the layout of the project via the link below:
+
+Layout Web
+
+
+
 # Ignite-call
 
 
